@@ -1,0 +1,641 @@
+Modules list:
+-------------
+hello.o:
+    CODE              Offs=000000  Size=000010  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000010  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(_file.o):
+    CODE              Offs=000010  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=000010  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=00001E  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(_hextab.o):
+    CODE              Offs=000010  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=000010  Size=000010  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00001E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(_longminstr.o):
+    CODE              Offs=000010  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=000020  Size=00000C  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00001E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(_printf.o):
+    CODE              Offs=000010  Size=0003A4  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=00001E  Size=000003  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(_seterrno.o):
+    CODE              Offs=0003B4  Size=000009  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000021  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(addysp.o):
+    CODE              Offs=0003BD  Size=00000E  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000021  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(axlong.o):
+    CODE              Offs=0003CB  Size=00000D  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000021  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(condes.o):
+    CODE              Offs=0003D8  Size=00000C  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000021  Size=000025  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(copydata.o):
+    CODE              Offs=0003E4  Size=00002D  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(crt0.o):
+    CODE              Offs=000411  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=000018  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(ctype.o):
+    CODE              Offs=000411  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=00002C  Size=00008B  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(ctypemask.o):
+    CODE              Offs=000411  Size=00001E  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(decsp4.o):
+    CODE              Offs=00042F  Size=00000D  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(decsp6.o):
+    CODE              Offs=00043C  Size=00000D  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(errno.o):
+    CODE              Offs=000449  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002B  Size=000002  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(fwrite.o):
+    CODE              Offs=000449  Size=00007B  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002D  Size=000002  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(incsp2.o):
+    CODE              Offs=0004C4  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(incsp6.o):
+    CODE              Offs=0004DA  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(ldaxsp.o):
+    CODE              Offs=0004DF  Size=000009  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(lneg.o):
+    CODE              Offs=0004E8  Size=00001E  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(lpush.o):
+    CODE              Offs=000506  Size=000021  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(ltoa.o):
+    CODE              Offs=000527  Size=000095  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(mul.o):
+    CODE              Offs=0005BC  Size=000045  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(mul8.o):
+    CODE              Offs=000601  Size=00003A  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(popptr1.o):
+    CODE              Offs=00063B  Size=00000E  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(printf.o):
+    CODE              Offs=000649  Size=000033  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=00002F  Size=000001  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(push1.o):
+    CODE              Offs=00067C  Size=000005  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(pushax.o):
+    CODE              Offs=000681  Size=00001A  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(pushwsp.o):
+    CODE              Offs=00069B  Size=00001C  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(strlen.o):
+    CODE              Offs=0006B7  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(strlower.o):
+    CODE              Offs=0006CD  Size=000027  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(udiv.o):
+    CODE              Offs=0006F4  Size=00004F  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(vfprintf.o):
+    CODE              Offs=000743  Size=000061  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=000046  Size=000008  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(write.o):
+    CODE              Offs=0007A4  Size=000037  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00004E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(zerobss.o):
+    CODE              Offs=0007DB  Size=000023  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00004E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=000000  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+/usr/local/share/cc65/lib/replica1.lib(zeropage.o):
+    CODE              Offs=0007FE  Size=000000  Align=00001  Fill=0000
+    RODATA            Offs=0000B7  Size=000000  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000000  Align=00001  Fill=0000
+    DATA              Offs=00004E  Size=000000  Align=00001  Fill=0000
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+    NULL              Offs=000000  Size=000000  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+NULL                  000000  000000  000000  00001
+ZEROPAGE              000000  000019  00001A  00001
+STARTUP               000300  000317  000018  00001
+CODE                  000318  000B15  0007FE  00001
+RODATA                000B16  000BCC  0000B7  00001
+ONCE                  000BCD  000BD8  00000C  00001
+DATA                  000BD9  000C26  00004E  00001
+BSS                   000C27  000C56  000030  00001
+
+
+Exports list by name:
+---------------------
+__BSS_LOAD__              000C27  LA    __BSS_RUN__               000C27 RLA    
+__BSS_SIZE__              000030 REA    __CODE_LOAD__             000318  LA    
+__CODE_RUN__              000318  LA    __CODE_SIZE__             0007FE  EA    
+__CONSTRUCTOR_COUNT__     000000 REA    __CONSTRUCTOR_TABLE__     000318 RLA    
+__CPUSTACK_FILEOFFS__     000000  EA    __CPUSTACK_LAST__         000100  LA    
+__CPUSTACK_SIZE__         000100  EA    __CPUSTACK_START__        000100  LA    
+__DATA_LOAD__             000BD9 RLA    __DATA_RUN__              000BD9 RLA    
+__DATA_SIZE__             00004E REA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      000318 RLA    __ONCE_LOAD__             000BCD  LA    
+__ONCE_RUN__              000BCD  LA    __ONCE_SIZE__             00000C  EA    
+__RAM_FILEOFFS__          000000  EA    __RAM_LAST__              000C57  LA    
+__RAM_SIZE__              007C80 REA    __RAM_START__             000300 RLA    
+__RODATA_LOAD__           000B16  LA    __RODATA_RUN__            000B16  LA    
+__RODATA_SIZE__           0000B7  EA    __ROM_FILEOFFS__          000000  EA    
+__ROM_LAST__              00E000  LA    __ROM_SIZE__              002000  EA    
+__ROM_START__             00E000  LA    __STACKSIZE__             000080 REA    
+__STARTADDRESS__          000300  EA    __STARTUP_LOAD__          000300  LA    
+__STARTUP_RUN__           000300  LA    __STARTUP_SIZE__          000018  EA    
+__STARTUP__               000001 REA    __ZEROPAGE_LOAD__         000000  LA    
+__ZEROPAGE_RUN__          000000  LA    __ZEROPAGE_SIZE__         00001A  EA    
+__ZP_FILEOFFS__           000000  EA    __ZP_LAST__               00001A  LA    
+__ZP_SIZE__               0000EE  EA    __ZP_START__              000000  LA    
+___errno                  000C52 RLA    ___seterrno               0006CC RLA    
+__ctype                   000B42 RLA    __ctypeidx                000B4D RLA    
+__filetab                 000BD9  LA    __hextab                  000B26 RLA    
+__longminstr              000B36 RLA    __printf                  00041B RLA    
+_exit                     000315  LA    _fwrite                   000761 RLA    
+_init                     000300  LA    _ltoa                     000857 RLA    
+_main                     000318 RLA    _printf                   000961 RLA    
+_stderr                   000BF5  LA    _stdin                    000BF1  LA    
+_stdout                   000BF3 RLA    _strlen                   0009CF RLA    
+_strlower                 0009E5 RLA    _strlwr                   0009E5  LA    
+_ultoa                    000898 RLA    _vfprintf                 000A93 RLA    
+_write                    000ABC RLA    addysp                    0006D6 RLA    
+addysp1                   0006D5  LA    axlong                    0006E3 RLA    
+axulong                   0006E9 RLA    condes                    000BFA  LA    
+copydata                  0006FC RLA    ctypemask                 000729  LA    
+ctypemaskdirect           00072D RLA    decsp4                    000747 RLA    
+decsp6                    000754 RLA    donelib                   0006F0  LA    
+incsp2                    0007E4 RLA    incsp6                    0007F2 RLA    
+initlib                   000BCD RLA    ldax0sp                   0007F7  LA    
+ldaxysp                   0007F9 RLA    mul8x16                   00091B RLA    
+mul8x16a                  000925 RLA    negeax                    000800 RLA    
+popax                     0007DC RLA    popptr1                   000953 RLA    
+ptr1                      000008 RLZ    ptr2                      00000A RLZ    
+ptr3                      00000C RLZ    ptr4                      00000E RLZ    
+push0                     000999  LA    push0ax                   000821  LA    
+push1                     000994 RLA    pusha0                    00099B RLA    
+pushax                    00099D RLA    pusheax                   000827 RLA    
+pushl0                    00081E  LA    pushw0sp                  0009B3  LA    
+pushwysp                  0009B5 RLA    regbank                   000014 RLZ    
+regsave                   000004  LZ    sp                        000000 RLZ    
+sreg                      000002 RLZ    tmp1                      000010 RLZ    
+tmp2                      000011  LZ    tmp3                      000012  LZ    
+tmp4                      000013  LZ    tosmula0                  000919  LA    
+tosmulax                  0008D4  LA    tosudiva0                 000A0C  LA    
+tosudivax                 000A0E RLA    tosumula0                 000919  LA    
+tosumulax                 0008D4 RLA    udiv16                    000A1D  LA    
+zerobss                   000AF3 RLA    
+
+
+Exports list by value:
+----------------------
+__CONSTRUCTOR_COUNT__     000000 REA    __CPUSTACK_FILEOFFS__     000000  EA    
+__DESTRUCTOR_COUNT__      000000 REA    __RAM_FILEOFFS__          000000  EA    
+__ROM_FILEOFFS__          000000  EA    __ZEROPAGE_LOAD__         000000  LA    
+__ZEROPAGE_RUN__          000000  LA    __ZP_FILEOFFS__           000000  EA    
+__ZP_START__              000000  LA    sp                        000000 RLZ    
+__STARTUP__               000001 REA    sreg                      000002 RLZ    
+regsave                   000004  LZ    ptr1                      000008 RLZ    
+ptr2                      00000A RLZ    __ONCE_SIZE__             00000C  EA    
+ptr3                      00000C RLZ    ptr4                      00000E RLZ    
+tmp1                      000010 RLZ    tmp2                      000011  LZ    
+tmp3                      000012  LZ    tmp4                      000013  LZ    
+regbank                   000014 RLZ    __STARTUP_SIZE__          000018  EA    
+__ZEROPAGE_SIZE__         00001A  EA    __ZP_LAST__               00001A  LA    
+__BSS_SIZE__              000030 REA    __DATA_SIZE__             00004E REA    
+__STACKSIZE__             000080 REA    __RODATA_SIZE__           0000B7  EA    
+__ZP_SIZE__               0000EE  EA    __CPUSTACK_LAST__         000100  LA    
+__CPUSTACK_SIZE__         000100  EA    __CPUSTACK_START__        000100  LA    
+__RAM_START__             000300 RLA    __STARTADDRESS__          000300  EA    
+__STARTUP_LOAD__          000300  LA    __STARTUP_RUN__           000300  LA    
+_init                     000300  LA    _exit                     000315  LA    
+__CODE_LOAD__             000318  LA    __CODE_RUN__              000318  LA    
+__CONSTRUCTOR_TABLE__     000318 RLA    __DESTRUCTOR_TABLE__      000318 RLA    
+_main                     000318 RLA    __printf                  00041B RLA    
+___seterrno               0006CC RLA    addysp1                   0006D5  LA    
+addysp                    0006D6 RLA    axlong                    0006E3 RLA    
+axulong                   0006E9 RLA    donelib                   0006F0  LA    
+copydata                  0006FC RLA    ctypemask                 000729  LA    
+ctypemaskdirect           00072D RLA    decsp4                    000747 RLA    
+decsp6                    000754 RLA    _fwrite                   000761 RLA    
+popax                     0007DC RLA    incsp2                    0007E4 RLA    
+incsp6                    0007F2 RLA    ldax0sp                   0007F7  LA    
+ldaxysp                   0007F9 RLA    __CODE_SIZE__             0007FE  EA    
+negeax                    000800 RLA    pushl0                    00081E  LA    
+push0ax                   000821  LA    pusheax                   000827 RLA    
+_ltoa                     000857 RLA    _ultoa                    000898 RLA    
+tosmulax                  0008D4  LA    tosumulax                 0008D4 RLA    
+tosmula0                  000919  LA    tosumula0                 000919  LA    
+mul8x16                   00091B RLA    mul8x16a                  000925 RLA    
+popptr1                   000953 RLA    _printf                   000961 RLA    
+push1                     000994 RLA    push0                     000999  LA    
+pusha0                    00099B RLA    pushax                    00099D RLA    
+pushw0sp                  0009B3  LA    pushwysp                  0009B5 RLA    
+_strlen                   0009CF RLA    _strlower                 0009E5 RLA    
+_strlwr                   0009E5  LA    tosudiva0                 000A0C  LA    
+tosudivax                 000A0E RLA    udiv16                    000A1D  LA    
+_vfprintf                 000A93 RLA    _write                    000ABC RLA    
+zerobss                   000AF3 RLA    __RODATA_LOAD__           000B16  LA    
+__RODATA_RUN__            000B16  LA    __hextab                  000B26 RLA    
+__longminstr              000B36 RLA    __ctype                   000B42 RLA    
+__ctypeidx                000B4D RLA    __ONCE_LOAD__             000BCD  LA    
+__ONCE_RUN__              000BCD  LA    initlib                   000BCD RLA    
+__DATA_LOAD__             000BD9 RLA    __DATA_RUN__              000BD9 RLA    
+__filetab                 000BD9  LA    _stdin                    000BF1  LA    
+_stdout                   000BF3 RLA    _stderr                   000BF5  LA    
+condes                    000BFA  LA    __BSS_LOAD__              000C27  LA    
+__BSS_RUN__               000C27 RLA    ___errno                  000C52 RLA    
+__RAM_LAST__              000C57  LA    __ROM_SIZE__              002000  EA    
+__RAM_SIZE__              007C80 REA    __ROM_LAST__              00E000  LA    
+__ROM_START__             00E000  LA    
+
+
+Imports list:
+-------------
+__BSS_LOAD__ ([linker generated]):
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CODE_LOAD__ ([linker generated]):
+__CODE_RUN__ ([linker generated]):
+__CODE_SIZE__ ([linker generated]):
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CPUSTACK_FILEOFFS__ ([linker generated]):
+__CPUSTACK_LAST__ ([linker generated]):
+__CPUSTACK_SIZE__ ([linker generated]):
+__CPUSTACK_START__ ([linker generated]):
+__DATA_LOAD__ ([linker generated]):
+    copydata.o                common/copydata.s:8
+__DATA_RUN__ ([linker generated]):
+    copydata.o                common/copydata.s:8
+__DATA_SIZE__ ([linker generated]):
+    copydata.o                common/copydata.s:8
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__ONCE_LOAD__ ([linker generated]):
+__ONCE_RUN__ ([linker generated]):
+__ONCE_SIZE__ ([linker generated]):
+__RAM_FILEOFFS__ ([linker generated]):
+__RAM_LAST__ ([linker generated]):
+__RAM_SIZE__ ([linker generated]):
+    crt0.o                    replica1/crt0.s:10
+__RAM_START__ ([linker generated]):
+    crt0.o                    replica1/crt0.s:10
+__RODATA_LOAD__ ([linker generated]):
+__RODATA_RUN__ ([linker generated]):
+__RODATA_SIZE__ ([linker generated]):
+__ROM_FILEOFFS__ ([linker generated]):
+__ROM_LAST__ ([linker generated]):
+__ROM_SIZE__ ([linker generated]):
+__ROM_START__ ([linker generated]):
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        /usr/local/share/cc65/cfg/replica1.cfg:27
+__STARTADDRESS__ ([linker generated]):
+__STARTUP_LOAD__ ([linker generated]):
+__STARTUP_RUN__ ([linker generated]):
+__STARTUP_SIZE__ ([linker generated]):
+__STARTUP__ (crt0.o):
+    hello.o                   hello.s:13
+__ZEROPAGE_LOAD__ ([linker generated]):
+__ZEROPAGE_RUN__ ([linker generated]):
+__ZEROPAGE_SIZE__ ([linker generated]):
+__ZP_FILEOFFS__ ([linker generated]):
+__ZP_LAST__ ([linker generated]):
+__ZP_SIZE__ ([linker generated]):
+__ZP_START__ ([linker generated]):
+___errno (errno.o):
+    _seterrno.o               /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/errno.inc:7
+___seterrno (_seterrno.o):
+    fwrite.o                  /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/errno.inc:9
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__filetab (_file.o):
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s:10
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s:10
+__printf (_printf.o):
+    vfprintf.o                common/vfprintf.s:10
+_exit (crt0.o):
+_fwrite (fwrite.o):
+    vfprintf.o                common/vfprintf.s:10
+_init (crt0.o):
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_main (hello.o):
+    crt0.o                    replica1/crt0.s:8
+_printf (printf.o):
+    hello.o                   hello.s:14
+_stderr (_file.o):
+_stdin (_file.o):
+_stdout (_file.o):
+    printf.o                  common/printf.s:8
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s:13
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s:13
+_strlwr (strlower.o):
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_vfprintf (vfprintf.o):
+    printf.o                  common/printf.s:8
+_write (write.o):
+    fwrite.o                  common/fwrite.s:10
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s:8
+    fwrite.o                  common/fwrite.s:11
+    printf.o                  common/printf.s:8
+addysp1 (addysp.o):
+axlong (axlong.o):
+    _printf.o                 common/_printf.s:11
+axulong (axlong.o):
+    _printf.o                 common/_printf.s:11
+condes (condes.o):
+copydata (copydata.o):
+    crt0.o                    replica1/crt0.s:9
+ctypemask (ctypemask.o):
+ctypemaskdirect (ctypemask.o):
+    strlower.o                common/strlower.s:14
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s:11
+donelib (condes.o):
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s:8
+incsp6 (incsp6.o):
+    fwrite.o                  common/fwrite.s:11
+    vfprintf.o                common/vfprintf.s:9
+initlib (condes.o):
+    crt0.o                    replica1/crt0.s:9
+ldax0sp (ldaxsp.o):
+ldaxysp (ldaxsp.o):
+    fwrite.o                  common/fwrite.s:11
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s:8
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s:8
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s:9
+popax (incsp2.o):
+    write.o                   replica1/write.s:7
+    ltoa.o                    common/ltoa.s:9
+    _printf.o                 common/_printf.s:11
+popptr1 (popptr1.o):
+    write.o                   replica1/write.s:7
+    udiv.o                    runtime/udiv.s:9
+    mul8.o                    runtime/mul8.s:9
+    mul.o                     runtime/mul.s:9
+    ltoa.o                    common/ltoa.s:9
+ptr1 (zeropage.o):
+    write.o                   replica1/write.s:8
+    udiv.o                    runtime/udiv.s:10
+    strlower.o                common/strlower.s:13
+    popptr1.o                 runtime/popptr1.s:9
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    ltoa.o                    common/ltoa.s:11
+    fwrite.o                  common/fwrite.s:14
+    copydata.o                common/copydata.s:9
+    _printf.o                 /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    vfprintf.o                common/vfprintf.s:11
+    printf.o                  common/printf.s:9
+ptr2 (zeropage.o):
+    write.o                   replica1/write.s:8
+    strlower.o                common/strlower.s:13
+    strlen.o                  common/strlen.s:12
+    ltoa.o                    common/ltoa.s:11
+    copydata.o                common/copydata.s:9
+    _printf.o                 /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/zeropage.inc:12
+ptr3 (zeropage.o):
+    write.o                   replica1/write.s:8
+    ltoa.o                    common/ltoa.s:11
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+push0 (pushax.o):
+push0ax (lpush.o):
+push1 (push1.o):
+    _printf.o                 common/_printf.s:11
+    vfprintf.o                common/vfprintf.s:9
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s:8
+pushax (pushax.o):
+    fwrite.o                  common/fwrite.s:11
+    _printf.o                 common/_printf.s:11
+    printf.o                  common/printf.s:8
+    hello.o                   hello.s:42
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s:11
+pushl0 (lpush.o):
+pushw0sp (pushwsp.o):
+pushwysp (pushwsp.o):
+    fwrite.o                  common/fwrite.s:11
+    vfprintf.o                common/vfprintf.s:9
+regbank (zeropage.o):
+    _printf.o                 /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/zeropage.inc:14
+regsave (zeropage.o):
+sp (zeropage.o):
+    decsp4.o                  runtime/decsp4.s:8
+    pushwsp.o                 runtime/pushwsp.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    lpush.o                   runtime/lpush.s:13
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    incsp2.o                  runtime/incsp2.s:8
+    decsp6.o                  runtime/decsp6.s:8
+    addysp.o                  runtime/addysp.s:8
+    _printf.o                 /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/zeropage.inc:11
+    vfprintf.o                common/vfprintf.s:11
+    pushax.o                  runtime/pushax.s:8
+    printf.o                  common/printf.s:9
+    crt0.o                    /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/zeropage.inc:11
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s:11
+    udiv.o                    runtime/udiv.s:10
+    ltoa.o                    common/ltoa.s:11
+    lpush.o                   runtime/lpush.s:13
+    axlong.o                  runtime/axlong.s:9
+    _printf.o                 /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/zeropage.inc:11
+tmp1 (zeropage.o):
+    mul.o                     runtime/mul.s:10
+    ltoa.o                    common/ltoa.s:11
+    copydata.o                common/copydata.s:9
+    _printf.o                 /home/primeshp/6502/asm/cc65-replica1/cc65/asminc/zeropage.inc:13
+tmp2 (zeropage.o):
+tmp3 (zeropage.o):
+tmp4 (zeropage.o):
+tosmula0 (mul8.o):
+tosmulax (mul.o):
+tosudiva0 (udiv.o):
+tosudivax (udiv.o):
+    fwrite.o                  common/fwrite.s:12
+tosumula0 (mul8.o):
+tosumulax (mul.o):
+    fwrite.o                  common/fwrite.s:12
+udiv16 (udiv.o):
+zerobss (zerobss.o):
+    crt0.o                    replica1/crt0.s:9
+
